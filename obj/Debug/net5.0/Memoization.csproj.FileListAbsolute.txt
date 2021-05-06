@@ -1,0 +1,16 @@
+C:\Users\CUBICULO00002\Documents\VISUAL STUDIO CODE\Memoization\bin\Debug\net5.0\Memoization.exe
+C:\Users\CUBICULO00002\Documents\VISUAL STUDIO CODE\Memoization\bin\Debug\net5.0\Memoization.deps.json
+C:\Users\CUBICULO00002\Documents\VISUAL STUDIO CODE\Memoization\bin\Debug\net5.0\Memoization.runtimeconfig.json
+C:\Users\CUBICULO00002\Documents\VISUAL STUDIO CODE\Memoization\bin\Debug\net5.0\Memoization.runtimeconfig.dev.json
+C:\Users\CUBICULO00002\Documents\VISUAL STUDIO CODE\Memoization\bin\Debug\net5.0\Memoization.dll
+C:\Users\CUBICULO00002\Documents\VISUAL STUDIO CODE\Memoization\bin\Debug\net5.0\ref\Memoization.dll
+C:\Users\CUBICULO00002\Documents\VISUAL STUDIO CODE\Memoization\bin\Debug\net5.0\Memoization.pdb
+C:\Users\CUBICULO00002\Documents\VISUAL STUDIO CODE\Memoization\obj\Debug\net5.0\Memoization.csprojAssemblyReference.cache
+C:\Users\CUBICULO00002\Documents\VISUAL STUDIO CODE\Memoization\obj\Debug\net5.0\Memoization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CUBICULO00002\Documents\VISUAL STUDIO CODE\Memoization\obj\Debug\net5.0\Memoization.AssemblyInfoInputs.cache
+C:\Users\CUBICULO00002\Documents\VISUAL STUDIO CODE\Memoization\obj\Debug\net5.0\Memoization.AssemblyInfo.cs
+C:\Users\CUBICULO00002\Documents\VISUAL STUDIO CODE\Memoization\obj\Debug\net5.0\Memoization.csproj.CoreCompileInputs.cache
+C:\Users\CUBICULO00002\Documents\VISUAL STUDIO CODE\Memoization\obj\Debug\net5.0\Memoization.dll
+C:\Users\CUBICULO00002\Documents\VISUAL STUDIO CODE\Memoization\obj\Debug\net5.0\ref\Memoization.dll
+C:\Users\CUBICULO00002\Documents\VISUAL STUDIO CODE\Memoization\obj\Debug\net5.0\Memoization.pdb
+C:\Users\CUBICULO00002\Documents\VISUAL STUDIO CODE\Memoization\obj\Debug\net5.0\Memoization.genruntimeconfig.cache
